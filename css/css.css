@@ -1,0 +1,101 @@
+@charset "utf-8";
+
+
+@media (max-width: 1345px){
+}
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    margin-left: 15%;
+}
+#cont div #imgbanner {
+    width: 100%;
+}
+#t2 #t2 img {
+    float: left;
+    padding-right: 10px;
+}
+#t4 #t4 img {
+    float: right;
+    padding-left: 10px;
+}
+#t1 h3 img {
+    float: left;
+    padding-right: 10px;
+}
+#t3 h3 img {
+    float: right;
+    padding-left: 10px;
+}
+#t5 h3 img {
+    float: left;
+    padding-right: 15px;
+}
+
+
+
+#t1 {
+    background-color: #e9e6e2;
+    padding: 10px;
+}
+#t2 {
+    background-color: #c9d9d2;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    padding: 10px;
+    margin-top: 10px;
+    margin-right: auto;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+#t3 {
+    background-color: #9abddd;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-color: #98c2c2;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #697fa5;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    float: left;
+}
+#Menu {
+    background-color: #45888f;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t {
+    background-color: #97dace;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.imagen {
+    background-image: url(../imagenes/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvdmFuX2dvZ2hfd2hlYXRmaWVsZF93aXRoX2Nyb3dzLmpwZyIsInJlc2l6ZSwyMDAwLDIwMDAiXX0.RRCTbLcB93y0fSZcfmRMKRiO2ft2t7MKN9oIfPXwtOA.png);
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.imagen {
+    background-image: url(../imagenes/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvdmFuX2dvZ2hfd2hlYXRmaWVsZF93aXRoX2Nyb3dzLmpwZyIsInJlc2l6ZSwyMDAwLDIwMDAiXX0.RRCTbLcB93y0fSZcfmRMKRiO2ft2t7MKN9oIfPXwtOA.png);
+}
+.imagen {
+    background-image: url(../imagenes/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpbSI6WyJcL2FydHdvcmtcL2ltYWdlRmlsZVwvdmFuX2dvZ2hfd2hlYXRmaWVsZF93aXRoX2Nyb3dzLmpwZyIsInJlc2l6ZSwyMDAwLDIwMDAiXX0.RRCTbLcB93y0fSZcfmRMKRiO2ft2t7MKN9oIfPXwtOA.png);
+}
+.imagen {
+}
